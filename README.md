@@ -1,2 +1,3 @@
-# ATOM
-Projects and practice in  ATOM IDE
+Practicing Machine Learning Algorithms on ATOM IDE, using scala and apache spark.
+MLlib is the source of all libraries used here.
+
